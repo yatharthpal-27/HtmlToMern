@@ -1,0 +1,28 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+}
+h1{
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    color: darkgreen;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+.skills{
+    color: #870bec;
+}
+#about{
+    font-style: italic;
+}
+footer{
+    text-align: center;
+}
+.nav{
+    color: chocolate;
+}
